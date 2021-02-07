@@ -4,6 +4,21 @@
 
 [1]: https://www.npmjs.com/package/release-please?activeTab=versions
 
+## [10.1.0](https://www.github.com/abhinavkhanna-sf/release-please/compare/v10.0.0...v10.1.0) (2021-02-07)
+
+
+### Features
+
+* allow explicitly empty packageName when creating a release ([#743](https://www.github.com/abhinavkhanna-sf/release-please/issues/743)) ([c3580c6](https://www.github.com/abhinavkhanna-sf/release-please/commit/c3580c60c26af8c197f2ed3ee83736523c48f8fe))
+* helm-chart package type ([d8ad52d](https://www.github.com/abhinavkhanna-sf/release-please/commit/d8ad52ded7b4785816522cf261b9038686343a3e))
+
+
+### Bug Fixes
+
+* adding package-lock.json ([38c151a](https://www.github.com/abhinavkhanna-sf/release-please/commit/38c151a985a4cef4356c324aa414a849779863f5))
+* linting issues ([1600115](https://www.github.com/abhinavkhanna-sf/release-please/commit/160011523897684ff5651851bf4ade7365d7fac6))
+* linting issues ([b7f8820](https://www.github.com/abhinavkhanna-sf/release-please/commit/b7f8820e9ca26bec4a5e41caea15fe9142aecb81))
+
 ## [10.0.0](https://www.github.com/googleapis/release-please/compare/v9.4.1...v10.0.0) (2021-02-03)
 
 
